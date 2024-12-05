@@ -1,14 +1,16 @@
 Requests Per IP
 IP Address,Request Count
-203.0.113.5,8
-198.51.100.23,8
-192.168.1.1,7
-10.0.0.2,6
-192.168.1.100,5
+203.0.113.5,56
+198.51.100.23,56
+192.168.1.1,49
+10.0.0.2,42
+192.168.1.100,35
 
 Most Accessed Endpoint
 Endpoint,Access Count
-/login,13
+/login,91
 
 Suspicious IP Addresses
 IP Address,Failed Login Count
+203.0.113.5,56
+192.168.1.100,35
